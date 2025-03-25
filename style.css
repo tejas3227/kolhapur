@@ -1,0 +1,35 @@
+div{
+    text-align: center;
+    color: black;
+}
+body, html {
+    height: 100%;
+    background-image: url("image/kolhapur.jpg");
+    filter: brightness(100%);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
+
+.row{
+    margin: 5px;
+    padding: 5px;
+
+}
+td h3,h2{
+    background-image: url("image/white.jpg");
+    height: 100%;
+    text-align: center;
+    color: invert(hsl(240, 20%, 10%));
+}
+li h3 {
+
+    color: #000;
+}
+h1 span { 
+    background-color: green; 
+}
+
